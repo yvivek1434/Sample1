@@ -2,6 +2,9 @@ package com.manoj;
 
 // demo modification for git1
 // demo line 2 committed in github repo 
+
+
+// demo commit using same after commit in repo by other 
 public class Test {
 	
 	public static void main(String[] args)
