@@ -5,6 +5,9 @@ package com.manoj;
 
 
 // demo commit using same after commit in repo by other 
+
+// demo commit4 for conflict issues
+
 public class Test {
 	
 	public static void main(String[] args)
